@@ -1,4 +1,4 @@
-# MISRP 
+# MPSR 
 #Environmental requirements  
 pytorch 1.10.0  
 cuda 11.3  
