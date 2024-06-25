@@ -12,4 +12,4 @@ In order to better assist researchers in using this code, we provide a reproduci
 1. Download dataset from https://www.cancerimagingarchive.net/collection/ucsf-pdgm/
 2. Run UCSF-dataset.ipynb Note that the output_directory = './public/dataset/'+formatted+'/'+'DWI' parameter needs to be modified according to the local path
 3. Put the pre-processed dataset into the dataset folder
-4. Execute the UCSF-MISRP file
+4. Execute the UCSF-MPSR file
